@@ -3,7 +3,7 @@
 **Master's Thesis, Kyung Hee University (2025)**  
 **Presented at the 2023 INFORMS Annual Meeting**
 
-📄 [Full thesis on RISS](https://www.riss.kr/link?id=T17198768)
+📄 [Full thesis on RISS](https://www.riss.kr/link?id=T17198768) (Eng)
 
 ## Overview
 
