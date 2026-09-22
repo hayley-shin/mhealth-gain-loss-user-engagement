@@ -1,13 +1,9 @@
 # An Empirical Study About the Effect of Financial Gain and Loss on User Engagement of mHealth Apps
 
-Master's thesis research on how financial outcomes in a gain-loss incentive
-system are associated with users' subsequent engagement in a mobile health
-(mHealth) platform.
+**Master's Thesis, Kyung Hee University (2025)**  
+**Presented at the 2023 INFORMS Annual Meeting**
 
-**Thesis:** [An Empirical Study About the Effect of Financial Gain and Loss on User Engagement of mHealth Apps](https://www.riss.kr/link?id=T17198768)  
-**Author:** Haeyoon Shin  
-**Institution:** Kyung Hee University  
-**Degree:** M.S. in Business Administration (Major in Management Information Systems), 2025
+📄 [Full thesis on RISS](https://www.riss.kr/link?id=T17198768)
 
 ## Overview
 
