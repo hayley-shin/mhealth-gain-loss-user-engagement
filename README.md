@@ -27,9 +27,9 @@ program and participation in the next program.
 
 ## Research Questions
 
-1. **RQ1:** Does the increase in financial gain and loss encourage users to participate faster in the subsequent program?
+**RQ1:** Does the increase in financial gain and loss encourage users to participate faster in the subsequent program?
 
-2. **RQ2:** How does the user's average goal achievement rate in the previous programs moderate the effect?
+**RQ2:** How does the user's average goal achievement rate in the previous programs moderate the effect?
 
 ## Research Context
 
