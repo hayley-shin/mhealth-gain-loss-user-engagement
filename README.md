@@ -27,14 +27,9 @@ program and participation in the next program.
 
 ## Research Questions
 
-This study investigates:
+1. **RQ1:** Does the increase in financial gain and loss encourage users to participate faster in the subsequent program?
 
-1. How financial gain and loss are associated with the timing of users'
-   subsequent program participation.
-2. Whether the deposit amount moderates the relationship between financial
-   outcomes and subsequent engagement.
-3. Whether users' past program performance moderates the relationship
-   between financial outcomes and subsequent engagement.
+2. **RQ2:** How does the user's average goal achievement rate in the previous programs moderate the effect?
 
 ## Research Context
 
